@@ -15,7 +15,7 @@ body {
     align-items: center;
     flex-direction: column;
 }
-
+/* pumpkin start */
 .pumpkin {
     height: 11em;
     width: 15em;
@@ -64,7 +64,7 @@ body {
     z-index: -1;
     box-shadow: inset 0 0px 10px pink;
   }
-
+/* start of eyes */
   .pumpkin .eye {
     position: absolute;
     width: 0;
@@ -86,7 +86,7 @@ body {
     border-bottom: 2.1em solid transparent;
     border-right: 2.4em solid #401d03;
   }
-
+/* start of mouth */
   .pumpkin .mouth {
     width: 4em;
     height: 2em;
@@ -139,7 +139,7 @@ body {
     border-bottom: 0.5em solid transparent;
     border-left: 1em solid #401d03;
   }
-
+/* end of pumpkin body start of shadow */
  .shadow {
     margin: 10% auto 0;
     background: #000;
